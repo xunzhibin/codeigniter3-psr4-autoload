@@ -1,0 +1,19 @@
+{
+    "name": "xunzhibin/codeigniter3-psr4-autoload",
+    "description": "CodeIgniter3 PSR-4 Autoloader",
+    "type": "library",
+    "require": {
+        "php": ">=5.3.7"
+    },
+    "license": "mit",
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "authors": [
+        {
+            "name": "xunzhibin",
+            "email": "xunzhibin@jnexpert.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
