@@ -1,5 +1,5 @@
 {
-    "name": "xunzhibin/codeigniter3-psr4-autoload",
+    "name": "xzb/codeigniter3-psr4-autoload",
     "description": "CodeIgniter3 PSR-4 Autoloader",
     "type": "library",
     "require": {
