@@ -28,7 +28,5 @@ Check Codeigniter `application/config/config.php`:
 ```php
 $config['composer_autoload'] = TRUE;
 ```
-    
-> You could customize the vendor path into `$config['composer_autoload']`
 
 ---
